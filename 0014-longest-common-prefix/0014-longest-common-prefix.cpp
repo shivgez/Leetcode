@@ -1,20 +1,27 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-    if(strs.size()==0){
-        return "";
-    }      
-    string prefix=strs[0];
-    for(int i=1;i<strs.size();i++){
-        int j=0;
-        while(j<prefix.length()&&j<strs[i].length()&& prefix[j]==strs[i][j]){
-            j++;
-        }
-        prefix=prefix.substr(0,j);
-        if(prefix==""){
+        // if input array is empty
+        if (strs.size() == 0)
             return "";
+
+        // sort strings lexicographically
+        sort(strs.begin(), strs.end());
+
+        string first = strs[0];
+        string last  = strs[strs.size() - 1];
+
+        int i = 0;
+        // compare first and last string
+        while (i < first.size() && i < last.size() &&
+               first[i] == last[i]) {
+            i++;
         }
+
+        // if no common prefix
+        if (i == 0)
+            return "";
+
+        return first.substr(0, i);
     }
-        return prefix;
-}
 };
