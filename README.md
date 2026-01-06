@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivgez/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivgez/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
