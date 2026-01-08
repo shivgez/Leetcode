@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/shivgez/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |
