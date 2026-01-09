@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Bit Manipulation
 |  |
@@ -104,20 +105,24 @@
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
