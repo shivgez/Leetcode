@@ -18,9 +18,10 @@ public:
             midd=mid;
            
         }
-         if(target>nums[midd]){
+        /* if(target>nums[midd]){
             return midd+1;
          }
-         else return midd;
+         else return midd;*/
+        return low;
     }
 };
