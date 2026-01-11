@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -111,6 +112,7 @@
 | [0162-find-peak-element](https://github.com/shivgez/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Tree
 |  |
 | ------- |
