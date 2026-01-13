@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivgez/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -90,6 +91,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shivgez/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shivgez/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
