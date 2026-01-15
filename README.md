@@ -29,6 +29,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Tree
 |  |
 | ------- |
