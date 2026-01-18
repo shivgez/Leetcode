@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/shivgez/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivgez/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Bit Manipulation
@@ -71,6 +73,7 @@
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0075-sort-colors](https://github.com/shivgez/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shivgez/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +127,7 @@
 | [0035-search-insert-position](https://github.com/shivgez/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/shivgez/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
