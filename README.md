@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shivgez/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shivgez/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@
 | [0027-remove-element](https://github.com/shivgez/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shivgez/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/shivgez/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
