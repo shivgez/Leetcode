@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivgez/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/shivgez/Leetcode/tree/master/0058-length-of-last-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Trie
 |  |
