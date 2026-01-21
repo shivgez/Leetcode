@@ -43,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Bit Manipulation
@@ -78,11 +79,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivgez/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shivgez/Leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Trie
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
