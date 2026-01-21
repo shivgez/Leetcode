@@ -7,11 +7,11 @@ public:
             int index=ch-'a';
             freq[index]=freq[index]+1;
         }
-        for(int i=0;i<s.length();i++){
-            char ch=s[i];
+        for(int j=0;j<s.length();j++){
+            char ch=s[j];
             int index=ch-'a';
             if(freq[index]==1){
-                return i;
+                return j;
             }
         }
         return -1;
