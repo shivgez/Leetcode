@@ -95,6 +95,7 @@
 | [0014-longest-common-prefix](https://github.com/shivgez/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivgez/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/shivgez/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivgez/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -111,6 +112,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/shivgez/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shivgez/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shivgez/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivgez/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
