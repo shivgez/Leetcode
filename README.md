@@ -54,6 +54,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivgez/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -63,6 +64,7 @@
 | [0136-single-number](https://github.com/shivgez/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivgez/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivgez/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [0344-reverse-string](https://github.com/shivgez/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivgez/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Trie
 |  |
