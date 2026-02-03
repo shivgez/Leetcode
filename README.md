@@ -37,6 +37,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
@@ -72,6 +73,7 @@
 | [0053-maximum-subarray](https://github.com/shivgez/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivgez/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/shivgez/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -249,4 +253,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivgez/Leetcode/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
