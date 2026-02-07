@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/shivgez/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivgez/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivgez/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shivgez/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivgez/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivgez/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shivgez/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
@@ -277,4 +279,8 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shivgez/Leetcode/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivgez/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
