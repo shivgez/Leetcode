@@ -132,6 +132,7 @@
 | [0392-is-subsequence](https://github.com/shivgez/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shivgez/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
