@@ -64,6 +64,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Bit Manipulation
@@ -132,6 +133,7 @@
 | [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shivgez/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shivgez/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -159,6 +161,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivgez/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shivgez/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shivgez/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivgez/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shivgez/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
