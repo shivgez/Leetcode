@@ -46,6 +46,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/shivgez/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -68,6 +69,7 @@
 | [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0455-assign-cookies](https://github.com/shivgez/Leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shivgez/Leetcode/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0455-assign-cookies](https://github.com/shivgez/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/shivgez/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +220,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Tree
 |  |
