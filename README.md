@@ -51,6 +51,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/shivgez/Leetcode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
 | ------- |
