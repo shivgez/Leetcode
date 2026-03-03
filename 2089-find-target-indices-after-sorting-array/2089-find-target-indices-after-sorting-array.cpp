@@ -1,56 +1,15 @@
 class Solution {
 public:
-    int firstocur(vector<int >& nums,int target){
-    int n=nums.size();
-    int push=-1;
-        int low=0,high=n-1;
-         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                push=mid;
-                high=mid-1;
-            }
-            else if(nums[mid]<target){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
-        }
-        return push;
-    }
-    int lastocur(vector<int >& nums,int target){
-        int n=nums.size();
-        int push=0;
-        int low=0,high=n-1;
-         while(low<=high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                push=mid;
-                low=mid+1;
-            }
-            else if(nums[mid]<target){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
-        }
-        return push;
-    }
-    vector<int> targetIndices(vector<int>& nums, int target) {
-        sort(nums.begin(),nums.end());
-        
+    vector<int> targetIndices(vector<int>& nums, int target) { 
         vector<int> vec;
-        int first=firstocur(nums,target);
-         int last=lastocur(nums,target);
-        if(first==-1){
-            return vec;
+        int small=0,equal=0;
+        for(int num: nums){
+            if(num<target) small++;
+            if(num==target) equal++;
         }
-       for(int i=first;i<=last;i++){
-        vec.push_back(i);
-       }
-       
+        for(int i=0;i<equal;i++){
+            vec.push_back(small+i);
+        }
        return vec;
     }
 };
