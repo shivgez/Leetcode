@@ -235,6 +235,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -242,6 +243,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -342,9 +344,11 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
