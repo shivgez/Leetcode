@@ -28,6 +28,7 @@
 | [0162-find-peak-element](https://github.com/shivgez/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivgez/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivgez/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -187,6 +188,7 @@
 | [0066-plus-one](https://github.com/shivgez/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivgez/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shivgez/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivgez/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shivgez/Leetcode/tree/master/0268-missing-number) |
@@ -309,6 +311,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -372,4 +375,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
