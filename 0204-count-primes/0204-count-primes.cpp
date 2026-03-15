@@ -6,7 +6,7 @@ public:
         for(int i=2;i<n;i++){
             if(isprime[i]){
                 cnt++;
-                for(long long j=1LL*i*i;j<n;j+=i){
+                for(int j=i*2;j<n;j+=i){
                     isprime[j]=false;
                 }
             }
