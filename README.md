@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/shivgez/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/shivgez/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/shivgez/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shivgez/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shivgez/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivgez/Leetcode/tree/master/0075-sort-colors) |
@@ -215,6 +216,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivgez/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -314,6 +316,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
