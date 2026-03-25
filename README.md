@@ -47,6 +47,7 @@
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
@@ -91,6 +92,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivgez/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shivgez/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shivgez/Leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0455-assign-cookies](https://github.com/shivgez/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/shivgez/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shivgez/Leetcode/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/shivgez/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
@@ -226,6 +229,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shivgez/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivgez/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -328,6 +332,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
