@@ -63,6 +63,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/shivgez/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0509-fibonacci-number](https://github.com/shivgez/Leetcode/tree/master/0509-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivgez/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivgez/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +340,7 @@
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivgez/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Number Theory
 |  |
 | ------- |
