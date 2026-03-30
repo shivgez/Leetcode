@@ -30,6 +30,7 @@
 | [0162-find-peak-element](https://github.com/shivgez/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivgez/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivgez/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivgez/Leetcode/tree/master/0217-contains-duplicate) |
@@ -231,6 +232,7 @@
 | [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivgez/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
@@ -271,6 +273,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
@@ -282,6 +285,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
@@ -393,6 +397,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
