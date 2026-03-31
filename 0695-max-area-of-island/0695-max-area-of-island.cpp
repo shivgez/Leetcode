@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void bfs(int row,int col,  vector<vector<int>>&vis,   vector<vector<int>>&grid,vector<int>& ans){
+    int bfs(int row,int col,  vector<vector<int>>&vis,   vector<vector<int>>&grid){
         vis[row][col]=1;
         queue<pair<int,int>> q;
         q.push({row,col});
@@ -23,21 +23,21 @@ public:
                 }
             }
         }
-        ans.push_back(cnt);
+        return cnt;
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
-        vector<int> ans;
+        int maxx=0;
         vector<vector<int>> vis(m,vector<int>(n,0));
         for(int row=0;row<m;row++){
             for(int col=0;col<n;col++){
                 if(!vis[row][col] && grid[row][col]==1){
-                    bfs(row,col,vis,grid,ans);
+                   int area= bfs(row,col,vis,grid);
+                   maxx=max(maxx,area);
                 }
             }
         }
-        if (ans.empty()) return 0;
-         return *max_element(ans.begin(), ans.end());
+        return maxx;
     }
 };
