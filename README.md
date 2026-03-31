@@ -47,6 +47,7 @@
 | [0455-assign-cookies](https://github.com/shivgez/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivgez/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -234,6 +235,7 @@
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
@@ -277,6 +279,7 @@
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -289,6 +292,7 @@
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
@@ -399,6 +403,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
