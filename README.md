@@ -56,6 +56,7 @@
 | [0912-sort-an-array](https://github.com/shivgez/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivgez/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/shivgez/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivgez/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -241,6 +242,7 @@
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shivgez/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivgez/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/shivgez/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivgez/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -285,6 +287,7 @@
 | [0733-flood-fill](https://github.com/shivgez/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/shivgez/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -300,6 +303,7 @@
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/shivgez/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivgez/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shivgez/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -409,6 +413,7 @@
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shivgez/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/shivgez/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shivgez/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
