@@ -47,6 +47,7 @@
 | [0455-assign-cookies](https://github.com/shivgez/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shivgez/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/shivgez/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/shivgez/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/shivgez/Leetcode/tree/master/0733-flood-fill) |
@@ -115,6 +116,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivgez/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shivgez/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shivgez/Leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/shivgez/Leetcode/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivgez/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shivgez/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/shivgez/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -237,6 +239,7 @@
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/shivgez/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivgez/Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/shivgez/Leetcode/tree/master/0832-flipping-an-image) |
@@ -297,6 +300,7 @@
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/shivgez/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivgez/Leetcode/tree/master/0733-flood-fill) |
