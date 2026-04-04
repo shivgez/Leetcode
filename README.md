@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/shivgez/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shivgez/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivgez/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/shivgez/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shivgez/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shivgez/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
@@ -241,6 +242,7 @@
 | [0054-spiral-matrix](https://github.com/shivgez/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivgez/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shivgez/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/shivgez/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivgez/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/shivgez/Leetcode/tree/master/0542-01-matrix) |
@@ -286,6 +288,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shivgez/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -301,6 +304,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shivgez/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shivgez/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivgez/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -417,6 +421,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shivgez/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivgez/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivgez/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shivgez/Leetcode/tree/master/0695-max-area-of-island) |
