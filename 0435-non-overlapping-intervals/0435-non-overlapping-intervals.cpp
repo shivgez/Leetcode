@@ -4,14 +4,14 @@ public:
         if(intervals.empty()) return 0;
         sort(intervals.begin(),intervals.end());
         int count=0;
-        int prevend=intervals[0][1];
+        int prev=intervals[0][1];
         for(int i=1;i<intervals.size();i++){
-            if(intervals[i][0]<prevend){
+            if(intervals[i][0]<prev){
                 count++;
-                prevend=min(prevend,intervals[i][1]);
+                prev=min(prev,intervals[i][1]);
             }
             else{
-                prevend=intervals[i][1];
+                prev=intervals[i][1];
             }
         }
            return count;
