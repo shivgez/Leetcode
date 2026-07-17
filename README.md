@@ -72,6 +72,7 @@
 | [1975-maximum-matrix-sum](https://github.com/shivgez/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shivgez/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivgez/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/shivgez/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivgez/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/shivgez/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shivgez/Leetcode/tree/master/1390-four-divisors) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivgez/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivgez/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -283,6 +288,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/shivgez/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/shivgez/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivgez/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
 | ------- |
@@ -385,6 +391,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shivgez/Leetcode/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,4 +467,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivgez/Leetcode/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/shivgez/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
